@@ -2,6 +2,7 @@ species,island,culmen_length_mm,culmen_depth_mm,flipper_length_mm,body_mass_g,se
 Adelie,Torgersen,39.1,18.7,181,3750,MALE
 Adelie,Torgersen,39.5,17.4,186,3800,FEMALE
 Adelie,Torgersen,40.3,18,195,3250,FEMALE
+Adelie,Torgersen,NA,NA,NA,NA,NA
 Adelie,Torgersen,36.7,19.3,193,3450,FEMALE
 Adelie,Torgersen,39.3,20.6,190,3650,MALE
 Adelie,Torgersen,38.9,17.8,181,3625,FEMALE
@@ -244,6 +245,7 @@ Gentoo,Biscoe,46.5,14.5,213,4400,FEMALE
 Gentoo,Biscoe,46.3,15.8,215,5050,MALE
 Gentoo,Biscoe,42.9,13.1,215,5000,FEMALE
 Gentoo,Biscoe,46.1,15.1,215,5100,MALE
+Gentoo,Biscoe,44.5,14.3,216,4100,NA
 Gentoo,Biscoe,47.8,15,215,5650,MALE
 Gentoo,Biscoe,48.2,14.3,210,4600,FEMALE
 Gentoo,Biscoe,50,15.3,220,5550,MALE
@@ -336,6 +338,7 @@ Gentoo,Biscoe,55.1,16,230,5850,MALE
 Gentoo,Biscoe,44.5,15.7,217,4875,.
 Gentoo,Biscoe,48.8,16.2,222,6000,MALE
 Gentoo,Biscoe,47.2,13.7,214,4925,FEMALE
+Gentoo,Biscoe,NA,NA,NA,NA,NA
 Gentoo,Biscoe,46.8,14.3,215,4850,FEMALE
 Gentoo,Biscoe,50.4,15.7,222,5750,MALE
 Gentoo,Biscoe,45.2,14.8,212,5200,FEMALE
