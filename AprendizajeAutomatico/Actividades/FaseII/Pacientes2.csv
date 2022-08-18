@@ -1,10 +1,10 @@
-NOEXPED,Enfermedad,HIPERTEN,HIPERGLU,HDLBAJA,HIPERTRI,CINTALTA,EDAD,GENERO,FUMA,ALCOHOL,POLIURIA
-1,Protocolo_1,0,0,1,0,0,38,0,0,0,0
-2,Protocolo_2,0,1,1,1,1,49,1,0,0,0
-3,Protocolo_1,1,1,0,1,1,59,1,0,0,1
-4,Protocolo_2,1,1,0,0,0,44,0,0,0,0
-5,Protocolo_1,0,0,1,0,0,42,0,0,0,0
-6,Protocolo_1,0,0,1,0,1,38,0,0,0,0
-7,Protocolo_1,1,1,1,0,1,56,1,0,0,0
-8,Protocolo_1,0,0,1,0,1,53,0,1,0,0
-10,Protocolo_1,1,1,1,1,1,48,0,0,0,0
+NOEXPED,Embalaje ,ancho(cm),largo(cm),procedencia,manipulacion,temperatura,protocolo,,,
+1,Embalaje1,15,40,20,Normal,refrigerado,Protocolo_1,,,
+2,Embalaje2,18.8,42,20,Normal,refrigerado,Protocolo_2,,,
+3,Embalaje1,15.2,40,21,Normal,refrigerado,Protocolo_1,,,
+4,Embalaje1,14.3,45,25,Especial,refrigerado,Protocolo_2,,,
+5,Embalaje1,15,40,20,Normal,refrigerado,Protocolo_1,,,
+6,Embalaje2,18.8,48,20,Normal,refrigerado,Protocolo_1,,,
+7,Embalaje2,15.2,41,21,Normal,refrigerado,Protocolo_1,,,
+8,Embalaje2,14.3,40,25,Normal,refrigerado,Protocolo_1,,,
+10,Embalaje2,15,42,20,Normal,refrigerado,Protocolo_1,,,
