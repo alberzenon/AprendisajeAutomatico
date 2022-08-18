@@ -1,4 +1,4 @@
-﻿No,protocolo,embalaje1,ancho(cm),largo(cm),procedencia,manipulacion,temperatura
+No,protocolo,embalaje1,ancho(cm),largo(cm),procedencia,manipulacion,temperatura
 1,Protocolo_1,1,15,40,20,Normal,refrigerado
 2,Protocolo_2,2,18.8,42,20,Normal,refrigerado
 3,Protocolo_1,1,15.2,40,21,Normal,refrigerado
@@ -8,10 +8,3 @@
 7,Protocolo_1,2,15.2,41,21,Normal,refrigerado
 8,Protocolo_1,1,14.3,40,25,Normal,refrigerado
 9,Protocolo_1,2,15,42,20,Normal,refrigerado
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
